@@ -1,8 +1,14 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# PyCache
+__pycache__
+
 # BackUp Folder
 BackUp
 
 # Dataset Folder
 Dataset
+
+# SetUp File
+paths_setup.py
