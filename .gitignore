@@ -1,21 +1,15 @@
 # Jupyter Notebook
-ViewClassification/.ipynb_checkpoints
+ViewClassification/VC_Default/.ipynb_checkpoints
 
 # PyCache
-ViewClassification/__pycache__
+ViewClassification/VC_Default/__pycache__
 
 # BackUp Folder
 BackUp
-ViewClassification/BackUp
-
-# Models Folder
-ViewClassification/Models/*
-!ViewClassification/Models/class_mapping.json
-!ViewClassification/Models/data_summary.csv
-!ViewClassification/Models/excluded_files.json
+ViewClassification/VC_Default/BackUp
 
 # Dataset Folder
 Dataset
 
 # SetUp File
-paths_setup.py
+ViewClassification/VC_Default/paths_setup.py
