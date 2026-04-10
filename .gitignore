@@ -1,15 +1,25 @@
-# Jupyter Notebook
+# Jupyter Notebook Checkpoint Folders
 ViewClassification/VC_Default/.ipynb_checkpoints
+ViewClassification/VC_FashionMNIST/.ipynb_checkpoints
+ViewClassification/VC_MNIST/.ipynb_checkpoints
 
-# PyCache
+# PyCache Folders
 ViewClassification/VC_Default/__pycache__
+ViewClassification/VC_FashionMNIST/__pycache__
+ViewClassification/VC_MNIST/__pycache__
 
 # BackUp Folders
 BackUp
 ViewClassification/VC_Default/BackUp
+ViewClassification/VC_FashionMNIST/BackUp
+ViewClassification/VC_MNIST/BackUp
 
-# Dataset Folder
+# Dataset Folders
 Dataset
+ViewClassification/VC_FashionMNIST/Data
+ViewClassification/VC_MNIST/Data
 
-# SetUp File
+# SetUp Files
 ViewClassification/VC_Default/paths_setup.py
+ViewClassification/VC_FashionMNIST/paths_setup.py
+ViewClassification/VC_MNIST/paths_setup.py
