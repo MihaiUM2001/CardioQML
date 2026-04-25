@@ -23,3 +23,9 @@ ViewClassification/VC_MNIST/Data
 ViewClassification/VC_Default/paths_setup.py
 ViewClassification/VC_FashionMNIST/paths_setup.py
 ViewClassification/VC_MNIST/paths_setup.py
+
+# ViewClassification Models
+ViewClassification/VC_Default/Models/*
+!ViewClassification/VC_Default/Models/class_mapping.json
+!ViewClassification/VC_Default/Models/data_summary.csv
+!ViewClassification/VC_Default/Models/excluded_files.json
